@@ -1,0 +1,6 @@
+name: Joinmessage
+version: '1.0'
+main: ch.andu.joinmessage.Joinmessage
+api-version: '1.21'
+authors: [ anducrafter ]
+description: Joinmessage
